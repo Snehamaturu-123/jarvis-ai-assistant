@@ -30,6 +30,8 @@ The system is designed to be LLM-ready and can work with self-hosted models such
 
 
 ## 📂 Project Structure
+
+```text
 jarvis-ai-assistant/
 │
 ├── backend/
@@ -56,6 +58,13 @@ jarvis-ai-assistant/
 ├── .env
 ├── README.md
 └── run_project.md
+```
+
+
+OUTPUT:
+<img width="1861" height="864" alt="image" src="https://github.com/user-attachments/assets/9ceb77c6-7ebf-4466-bac9-334ece9a9937" />
+
+
 
 
 
