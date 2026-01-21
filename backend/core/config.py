@@ -1,0 +1,11 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+class Settings:
+    PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+    PINECONE_ENV = os.getenv("PINECONE_ENV")
+    INDEX_NAME = "jarvis-memory"
+
+settings = Settings()
